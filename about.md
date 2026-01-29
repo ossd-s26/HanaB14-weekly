@@ -8,5 +8,4 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Hi~ Welcome to my page! My name is Hana and I'm from China. To be continued...🏃‍♀️‍➡️
