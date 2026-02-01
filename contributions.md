@@ -22,6 +22,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Jan 30   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Bao_Shichen&oldid=1335709566)    | Wikipedia edit    |   I added link to connect relevant pages.    |
+| Jan 30   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Bao_Shichen&oldid=1335709566)    | Wikipedia edit    |   I added links to connect relevant pages.    |
+| Jan 30   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Michael_Watson_(cyclist)&oldid=1335712556)    | Wikipedia edit    |   I added links to connect relevant pages.    |
 |     |     |     |      |
 |     |     |     |      |
