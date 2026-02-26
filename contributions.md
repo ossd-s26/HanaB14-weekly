@@ -24,5 +24,6 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Jan 30   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Bao_Shichen&oldid=1335709566)    | Wikipedia edit    |   I added links to connect relevant pages.    |
 | Jan 30   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Michael_Watson_(cyclist)&oldid=1335712556)    | Wikipedia edit    |   I added links to connect relevant pages.    |
+| Feb 25   | [Pull Request](https://github.com/mkoskim/mawejs/pull/427)    | UI Improvement    |   Added file path display to the Recent Files dialog and ensured long paths and scrolling work properly.    |
 |     |     |     |      |
 |     |     |     |      |
