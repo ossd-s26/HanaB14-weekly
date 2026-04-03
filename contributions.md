@@ -28,6 +28,6 @@ Replace the first row with your own contribution.
 | Mar 4   | [Merged PR](https://github.com/lingdojo/kana-dojo/pull/7104)    | Documentation    |   Added a trivia question through a beginner issue to practice the issue-to-PR workflow, auto-merge process, and get more comfortable reading the project’s TypeScript-based content format.    |
 | Mar 31   | [Issue discussion](https://github.com/siddhant-rajhans/cortexlab/issues/15)    | Discussion    |   Participated in issue discussion and clarified notebook section scope with the maintainer.    |
 | Apr 1   | [draft PR](https://github.com/siddhant-rajhans/cortexlab/pull/20)    | Documentation / Tutorial    |   Added a beginner-friendly synthetic notebook walkthrough for CortexLab’s full analysis pipeline, including setup, alignment, cognitive load, temporal dynamics, and connectivity sections.    |
-| Apr 3   | [link to my contribution](https://www.openstreetmap.org/changeset/180798063)    | OpenStreet Map feature    |   OpenStreet Map feature    |
+| Apr 3   | [link to my contribution](https://www.openstreetmap.org/changeset/180798063)    | OpenStreet Map feature    |   Added a missing Dunkin' location in Jersey City.    |
 |     |     |     |      |
 |     |     |     |      |
