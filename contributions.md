@@ -24,6 +24,7 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Jan 30   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Bao_Shichen&oldid=1335709566)    | Wikipedia edit    |   I added links to connect relevant pages.    |
 | Jan 30   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Michael_Watson_(cyclist)&oldid=1335712556)    | Wikipedia edit    |   I added links to connect relevant pages.    |
+| Feb 24   | [Issue discussion](https://github.com/mkoskim/mawejs/issues/426)    | Discussion    |   Participated in the issue discussion and suggested improving the Recent Files dialog with file path display and better scrolling support.    |
 | Feb 25   | [Merged PR](https://github.com/mkoskim/mawejs/pull/427)    | UI Improvement    |   Added file path display to the Recent Files dialog and ensured long paths and scrolling work properly.    |
 | Mar 4   | [Merged PR](https://github.com/lingdojo/kana-dojo/pull/7104)    | Documentation    |   Added a trivia question through a beginner issue to practice the issue-to-PR workflow, auto-merge process, and get more comfortable reading the project’s TypeScript-based content format.    |
 | Mar 31   | [Issue discussion](https://github.com/siddhant-rajhans/cortexlab/issues/15)    | Discussion    |   Participated in issue discussion and clarified notebook section scope with the maintainer.    |
