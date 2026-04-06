@@ -31,5 +31,6 @@ Replace the first row with your own contribution.
 | Apr 1   | [Merged PR](https://github.com/siddhant-rajhans/cortexlab/pull/20)    | Documentation / Tutorial    |   Added a beginner-friendly synthetic notebook walkthrough for CortexLab’s full analysis pipeline, including setup, alignment, cognitive load, temporal dynamics, and connectivity sections.    |
 | Apr 3   | [link to my contribution](https://www.openstreetmap.org/changeset/180798063)    | OpenStreet Map feature    |   Added a missing Dunkin' location in Jersey City.    |
 | Apr 3   | [DEV Blog](https://dev.to/imnothana/my-first-open-source-debugging-experience-a-react-i18n-bug-5di4)    | Blog    |   Wrote a short reflection on debugging an AFFiNE i18n bug and learning from the maintainer’s cleaner final solution.    |
+| Apr 6   | [Draft PR](https://github.com/mkoskim/mawejs/pull/453)    | UI Feature    | Continued contributing to the same MaweJS project (Feb 25) by starting work on the export file open action feature and opening an early draft PR to track progress.    |
 |     |     |     |      |
 |     |     |     |      |
