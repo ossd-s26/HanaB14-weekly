@@ -33,5 +33,6 @@ Replace the first row with your own contribution.
 | Apr 3   | [DEV Blog](https://dev.to/imnothana/my-first-open-source-debugging-experience-a-react-i18n-bug-5di4)    | Blog    |   Wrote a short reflection on debugging an AFFiNE i18n bug and learning from the maintainer’s cleaner final solution.    |
 | Apr 4   | [Issue discussion](https://github.com/mkoskim/mawejs/issues/307#issuecomment-4184852810)    | Discussion    | Continued contributing to the same MaweJS project (Feb 25) by discussing the export file open feature design and starting an early draft PR.    |
 | Apr 8   | [Merged PR](https://github.com/mkoskim/mawejs/pull/453)    | UI Feature    | Continued contributing to the same MaweJS project (Feb 25) by adding an **Open exported file** button to improve the export workflow after successful export.    |
+| Apr 16   | [link to my contribution](https://www.openstreetmap.org/changeset/181395668)    | OpenStreet Map feature    |   Added a new pet groomer business (Pawsome Vita) in Jersey City and requested community review.    |
 |     |     |     |      |
 |     |     |     |      |
